@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.1.0/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.0acd85bb58277878bc56dada74500d0f.js"
+  "/precache-manifest.b4797d6caf1b0b3fd209fe1f5965725c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-hometown-cab-project"});
